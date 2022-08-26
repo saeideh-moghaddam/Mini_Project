@@ -1,15 +1,17 @@
 # Mini_Project
 
-
-![photo_2022-08-25_21-44-40](https://user-images.githubusercontent.com/108235776/186729894-4f92bbb8-7cee-42f0-95aa-5141d320b1ee.jpg)
-
-
-![photo_2022-08-25_21-46-09](https://user-images.githubusercontent.com/108235776/186729974-05675c4a-6369-4952-bb4d-3572a2a23735.jpg)
+![photo_2022-08-26_15-53-50](https://user-images.githubusercontent.com/108235776/186894490-e5e4e5fc-04d8-4672-befc-d154ac9ffa57.jpg)
 
 
-![photo_2022-08-25_21-45-52](https://user-images.githubusercontent.com/108235776/186730025-3d8d6b31-efca-4367-9a05-023d2149fc87.jpg)
+![photo_2022-08-26_15-55-34](https://user-images.githubusercontent.com/108235776/186894498-f3a201b3-e59b-4263-9866-b84fc6523fb1.jpg)
 
 
-![photo_2022-08-25_21-44-59](https://user-images.githubusercontent.com/108235776/186730073-c90ad692-d645-45bf-920a-782e952b59ea.jpg)
+![photo_2022-08-26_15-57-22](https://user-images.githubusercontent.com/108235776/186894505-d23b8602-8900-44e9-9d78-ec68c4b6342a.jpg)
+
+
+![photo_2022-08-26_15-57-35](https://user-images.githubusercontent.com/108235776/186894509-73330739-8a1d-4838-81ea-50923bfb8013.jpg)
+
+
+![photo_2022-08-26_15-57-54](https://user-images.githubusercontent.com/108235776/186894516-7788960f-b3f9-4fe2-8a1d-d2fb0a496486.jpg)
 
 
