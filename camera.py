@@ -8,14 +8,14 @@ class Camera(QWindow):
     def __init__(self, fullname):
         super().__init__()
         loader = QUiLoader()
-        self.ui = loader.load("ui\camera.ui", None)
+        self.ui = loader.load('camera.ui', None)
         self.ui.show()
         
         self.fullname = fullname
 
         self.ui.camera_btn.clicked.connect(self.take_pic)
 
-        detector = cv2.CascadeClassifier("xml\haarcascade_frontalface_default.xml")
+        detector = cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
         self.cap = cv2.VideoCapture(0)
         while True:
             ret, self.frame = self.cap.read()
@@ -35,9 +35,5 @@ class Camera(QWindow):
             cv2.waitKey(1)
 
     def take_pic(self):
-        cv2.imwrite(f"img/user_images/{self.fullname}.jpeg", self.face)
+        cv2.imwrite(f'saeideh moghadam/{self.fullname}.jpeg', self.face)
         self.ui.close()
-
-
-
-       
