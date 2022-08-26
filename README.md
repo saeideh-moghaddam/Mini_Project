@@ -1,7 +1,5 @@
 # Mini_Project
 
-![photo_2022-08-25_21-45-25](https://user-images.githubusercontent.com/108235776/186729826-e01e39af-8d7c-45c7-84ac-0873f74b12aa.jpg)
-
 
 ![photo_2022-08-25_21-44-40](https://user-images.githubusercontent.com/108235776/186729894-4f92bbb8-7cee-42f0-95aa-5141d320b1ee.jpg)
 
